@@ -3,11 +3,8 @@
 
 🌸 Sobre mí
 
-Soy una Ingeniera en Administración de Empresas con más de 10 años de experiencia en diferentes áreas. 
-Actualmente, estoy inmersa en un Bootcamp de desarrollo Full Stack en Python. 
-Disfruto combinar mi experiencia en gestión con habilidades técnicas frescas para desarrollar proyectos innovadores y fascinantes.
-Mi enfoque es siempre cálido y colaborativo, buscando contribuir de manera positiva en cada proyecto en el que participo.. 
-
+Soy una Ingeniera en Administración de Empresas con más de 10 años de experiencia en areas de Atención de clientes, Recursos Humanos y Finanzas.
+Actualmente, estoy inmersa en un Bootcamp de desarrollo Full Stack en Python donde estoy emocionada disfrutando de este nuevo proceso.
 
 
 ## 💻 Habilidades Técnicas
