@@ -2,6 +2,7 @@
 # ¡Hola! Soy Lolett 👋
 
 🌸 Sobre mí
+
 Soy una Ingeniera en Administración de Empresas con más de 10 años de experiencia en diferentes áreas. 
 Actualmente, estoy inmersa en un Bootcamp de desarrollo Full Stack en Python. 
 Disfruto combinar mi experiencia en gestión con habilidades técnicas frescas para desarrollar proyectos innovadores y fascinantes.
@@ -15,8 +16,8 @@ Mi enfoque es siempre cálido y colaborativo, buscando contribuir de manera posi
 - **Otras habilidades:**🔒ciberseguridad, gestión de equipos.
 
 ## 🚀 Proyectos Destacados
-- **[OnlyFlans](https://github.com/LoImaginas/OnlyFlans)):** Un proyecto con Django en Python, CSS y JS que muestra mi evolución y aprendizaje.
-- **[Viajes Chile](https://github.com/LoImaginas/Prueba-Viajes-Chile)):** Una web creada para promover destinos turísticos en Chile, utilizando HTML, CSS y JS.
+- **[OnlyFlans](https://github.com/LoImaginas/OnlyFlans):** Un proyecto con Django en Python, CSS y JS que muestra mi evolución y aprendizaje.
+- **[Viajes Chile](https://github.com/LoImaginas/Prueba-Viajes-Chile):** Una web creada para promover destinos turísticos en Chile, utilizando HTML, CSS y JS.
 
 ## 🏢 Experiencia General
 Aunque todavía no tengo experiencia laboral específica en informática, estoy trabajando con entusiasmo para cambiar eso. 
@@ -26,7 +27,7 @@ He acumulado una sólida experiencia en atención al cliente, créditos, recurso
 
 ## 📬 Contacto
 - **Correo electrónico:** mllanquinaop@correo.uss.cl
-- **GitHub:** [Lo_imaginas](https://github.com/Loimaginas)
+- **GitHub:** [Loimaginas](https://github.com/Loimaginas)
 
 ## 🌱 Información Adicional
 - 👀**Intereses:** Sostenibilidad ambiental y tecnologías emergentes.
