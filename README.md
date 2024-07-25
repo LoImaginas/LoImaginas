@@ -3,9 +3,10 @@
 
 🌸 Sobre mí
 
-Soy una Ingeniera en Administración de Empresas con más de 10 años de experiencia en areas de Atención de clientes, Recursos Humanos y Finanzas.
-Actualmente, estoy inmersa en un Bootcamp de desarrollo Full Stack en Python donde estoy emocionada disfrutando de este nuevo proceso.
-
+Soy una entusiasta del desarrollo Full Stack con un enfoque en Python y ciberseguridad.
+Vivo en la hermosa comuna de Curacautin en la Region de la Araucania, provengo de Lican Ray.
+Actualmente, me dedico a aprender y desarrollar habilidades en el ámbito de la programación y la ciberseguridad.
+Tengo un título en Ingeniería en Administración de Empresas con una mención en Gestión Empresarial y actualmente estoy estudiando un Bootcamp de Desarrollo Full Stack en Python.
 
 ## 💻 Habilidades Técnicas
 - **Aprendiendo Lenguajes de programación:**🐍 Python.
