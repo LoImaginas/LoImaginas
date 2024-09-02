@@ -1,5 +1,5 @@
 
-# ¡Hola! Soy Lolett 👋
+<img src="https://github.com/user-attachments/assets/aacd25ae-3140-4d70-b511-88e13d364685" alt="IMG_0030" width="250px" />
 
 🌸 Sobre mí
 
