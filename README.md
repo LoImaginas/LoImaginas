@@ -1,7 +1,10 @@
-
-<img src="https://github.com/user-attachments/assets/aacd25ae-3140-4d70-b511-88e13d364685" alt="IMG_0030" width="250px" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e00ab072-86fc-4c1b-88ee-66fafed8ac3f" alt="IMG_0030" width="250px" />
+</p>
 
 🌸 Sobre mí
+
+<img src="https://github.com/user-attachments/assets/e39df44a-1275-40a6-94ea-c280158c1a43" alt="2452158_23a49" width="100px" />
 
 Soy una entusiasta del desarrollo Full Stack con un enfoque en Python y ciberseguridad.
 Vivo en la hermosa comuna de Curacautin en la Region de la Araucania, provengo de Lican Ray.
@@ -40,7 +43,8 @@ He acumulado una sólida experiencia en atención al cliente, créditos, recurso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loimaginas&layout=compact&theme=radical)
 
-<img src="https://media.giphy.com/media/3ohhwTjZgQ1uy3uFJm/giphy.gif" alt="Árboles moviéndose" width="300"/>
+![1f2e8b_0e1f027505734f489a685e3f445c50c0](https://github.com/user-attachments/assets/7bd55469-3874-4d7e-be7f-8b452c201ff7)
+
 <!---
 LoImaginas/LoImaginas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
