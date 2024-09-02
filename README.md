@@ -21,7 +21,7 @@ Tengo un título en Ingeniería en Administración de Empresas con una mención 
 Aunque todavía no tengo experiencia laboral específica en informática, estoy trabajando con entusiasmo para cambiar eso. 
 He acumulado una sólida experiencia en atención al cliente, créditos, recursos humanos y finanzas. Si deseas conocer más sobre mi trayectoria profesional, te invito a descargar mi CV:
 
-🔗 **[Descargar mi CV](https://drive.google.com/file/d/12LaN0ki5F1xbSM8zy39-CWa11QLOP7vK/view?usp=drive_link))**
+🔗 **[Descargar mi CV](https://drive.google.com/file/d/12LaN0ki5F1xbSM8zy39-CWa11QLOP7vK/view?usp=drive_link)**
 
 ## 📬 Contacto
 - **Correo electrónico:** mllanquinaop@correo.uss.cl
