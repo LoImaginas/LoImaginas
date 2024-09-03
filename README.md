@@ -35,7 +35,7 @@ He acumulado una sólida experiencia en atención al cliente, créditos, recurso
 - 💚**Objetivos:** Colaborar en proyectos de desarrollo sostenible e innovaciones tecnológicas.
 - 🚀**Metas:** Encontrar un entorno de trabajo donde me sienta cómoda y feliz, en un ambiente saludable que fomente mi crecimiento personal y profesional.
 - 😄**Pronombres:** Ella
-- ⚡**Dato curioso:** Emprendedora, Activista por la fauna nativa y amante de explorar nuevos lugares.
+- ⚡**Dato curioso:** Emprendedora, Activista on line de medio tiempo por la fauna nativa y amante de explorar nuevos lugares.
 
 ---
 
