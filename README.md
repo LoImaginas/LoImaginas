@@ -27,7 +27,7 @@ He acumulado una sólida experiencia en atención al cliente, créditos, recurso
 🔗 **[Descargar mi CV](https://drive.google.com/file/d/12LaN0ki5F1xbSM8zy39-CWa11QLOP7vK/view?usp=drive_link)**
 
 ## 📬 Contacto
-- **Correo electrónico:** mllanquinaop@correo.uss.cl
+- **Correo electrónico:** lolett.m@outlook.com
 - **GitHub:** [Loimaginas](https://github.com/Loimaginas)
 
 ## 🌱 Información Adicional
