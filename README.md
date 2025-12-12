@@ -40,7 +40,8 @@ Me motiva impulsar proyectos locales y contribuir al crecimiento económico desd
 Aunque aún no tengo experiencia laboral exclusivamente en informática, poseo una sólida trayectoria en atención al cliente, créditos, cobranzas, recursos humanos y finanzas. Hoy busco integrar mis conocimientos de gestión con mis habilidades tecnológicas.
 Si deseas conocer más sobre mi trayectoria profesional, te invito a descargar mi CV:
 
-🔗 **[Descargar mi CV]([https://drive.google.com/file/d/1WXyws65RrDpfJoWsBOz5llgkMwcoUibb/view?usp=drivesdk](https://drive.google.com/drive/folders/1ZnVrICOW51Rgr8W8WTQ18aiKf2Kvn_Zl?usp=sharing))**
+🔗 **[Descargar mi CV](https://drive.google.com/drive/folders/1ZnVrICOW51Rgr8W8WTQ18aiKf2Kvn_Zl?usp=sharing)**
+
 
 ## 📬 Contacto
 - **Correo electrónico:** lolett.m@outlook.com
