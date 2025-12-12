@@ -27,7 +27,7 @@ Lenguajes de programación
 - **🔌 Sistemas de conexión y comunicación**
 
 
-🤝 Asesoría y apoyo a PYMES y mujeres emprendedoras 🌟
+🤝 **Asesoría y apoyo a PYMES y mujeres emprendedoras** 🌟
 
 Además de mi formación tecnológica, dedico parte de mi tiempo a acompañar y asesorar a PYMES y mujeres emprendedoras, entregando apoyo en formalización, organización interna, gestión financiera básica, optimización de recursos y estrategias digitales.
 Me motiva impulsar proyectos locales y contribuir al crecimiento económico desde una perspectiva humana, sostenible y colaborativa.  
